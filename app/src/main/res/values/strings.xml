@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FoodRecipes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="recipes">Recipes</string>
+    <string name="jokes">Jokes</string>
+    <string name="favorites">Favorites</string>
+
+</resources>
